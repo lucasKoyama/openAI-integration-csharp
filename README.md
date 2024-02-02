@@ -1,0 +1,1 @@
+Exemplo de boiler plate em C# para consumir a API da OpenAI
